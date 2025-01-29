@@ -19,7 +19,7 @@ This is a simple Flask-based web application that fetches and displays random me
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/meme-flask.git
+   git clone https://github.com/randomiser47/Flask_meme_website.git
    cd meme-flask
 2. **Set up a virtual environment (optional but recommended):**
  `python3 -m venv venv
